@@ -1,0 +1,29 @@
+.container{
+    display: block;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: darkslategrey;
+    width: 300px;
+    height: 500px;
+    border-radius: 25px;
+
+
+}
+.cont{
+    margin: 0 auto;
+    margin-top: -150px;
+    padding: 20px;
+    background-color: darkslategrey;
+    width: 300px;
+    height: 30px;
+    text-align: center;
+    color: floralwhite;
+
+
+}
+.igual{
+    padding-top: 10px;
+    display:block;
+    font-size: 20px;
+    text-align: center;    
+}
